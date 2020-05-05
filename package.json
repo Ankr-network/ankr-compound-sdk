@@ -1,5 +1,5 @@
 {
-  "name": "ankr-compound-sdk",
+  "name": "@ankr.com/ankr-compound-sdk",
   "version": "1.0.0",
   "description": "Ankr's sdk for Compound restful server",
   "main": "index.js",
