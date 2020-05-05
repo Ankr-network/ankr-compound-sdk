@@ -1,0 +1,25 @@
+{
+  "name": "ankr-compound-sdk",
+  "version": "1.0.0",
+  "description": "Ankr's sdk for Compound restful server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankr-network/ankr-compound-sdk.git"
+  },
+  "keywords": [
+    "ankr",
+    "ankr.com",
+    "compound",
+    "DeFi"
+  ],
+  "author": "stanley@ankr.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankr-network/ankr-compound-sdk/issues"
+  },
+  "homepage": "https://github.com/Ankr-network/ankr-compound-sdk#readme"
+}
