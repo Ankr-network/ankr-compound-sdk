@@ -1,15 +1,7 @@
-# ankr-compound-sdk
-
-## Start with ankr-compound-sdk
-
-```javascript
 const ankrCompound = require('../')
 const {config, compound: {apiKey}} = ankrCompound
 
-config.setConfig({
-    endpoint: 'some endpoint',
-    apiKey: 'some api key'
-})
+config.setConfig(require('./config'))
 
 const main = async () => {
     console.log('-----------apikey list-------------')
@@ -30,4 +22,3 @@ const main = async () => {
 }
 
 main()
-```
