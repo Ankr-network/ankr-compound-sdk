@@ -3,7 +3,7 @@
 ## Start with ankr-compound-sdk
 
 ```javascript
-const ankrCompound = require('../')
+const ankrCompound = require('@ankr.com/ankr-compound-sdk')
 const {config, compound: {apiKey}} = ankrCompound
 
 config.setConfig({
