@@ -47,7 +47,7 @@ const main = async () => {
     // console.log(supplyEth)
 
     // console.log('-----------asset redeem eth-------------')
-    // const redeemEth = await asset.redeemEth(
+    // const redeemEth = await asset.redeemCEth(
     //     _assetAccountCreate['assetAccountID'],
     //     _assetAccountCreate['assetAccountSecret'],
     //     0.5
