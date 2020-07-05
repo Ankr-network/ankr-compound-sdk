@@ -4,7 +4,8 @@
   "description": "Ankr's sdk for Compound restful server",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*-tests.js"
+    "test": "mocha test/*-tests.js",
+    "push": "np"
   },
   "repository": {
     "type": "git",
